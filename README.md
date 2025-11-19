@@ -27,7 +27,7 @@ A production-grade AI-powered assistant for managing and querying company cybers
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 The **CyberSecurity Training Assistant** is an intelligent system that helps employees and CISOs manage and query cybersecurity training completion status. It uses natural language processing powered by LLMs (OpenAI GPT-4 or Anthropic Claude) with comprehensive guardrails to ensure safe, read-only operations.
 
@@ -42,7 +42,7 @@ The **CyberSecurity Training Assistant** is an intelligent system that helps emp
 
 ---
 
-## ✨ Features
+##  Features
 
 ### 1. Authentication System
 
@@ -103,7 +103,7 @@ Provides:
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -187,7 +187,7 @@ Provides:
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### Prerequisites
 
@@ -251,7 +251,7 @@ Frontend will be available at `http://localhost:3000`
 
 ---
 
-## 🐳 Running with Docker
+##  Running with Docker
 
 ### Quick Start (Recommended)
 
@@ -327,7 +327,7 @@ docker-compose exec backend python -m pytest
 
 ---
 
-## 🔐 Environment Variables
+##  Environment Variables
 
 ### Backend (.env)
 
@@ -367,7 +367,7 @@ VITE_API_BASE_URL=http://localhost:8000/api
 
 ---
 
-## 📚 API Documentation
+##  API Documentation
 
 ### Endpoints
 
@@ -489,7 +489,7 @@ Get global statistics (CISO only).
 
 ---
 
-## 🛡️ Security & Guardrails
+##  Security & Guardrails
 
 ### Multi-Layer Protection
 
@@ -543,7 +543,7 @@ Removes potentially harmful content from AI responses before delivery to user.
 
 ---
 
-## 💡 Example Scenarios
+##  Example Scenarios
 
 ### Employee Use Cases
 
@@ -618,7 +618,7 @@ AI: "Found 15 employees with status NOT_STARTED:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Automatiq_ai/
@@ -700,7 +700,7 @@ Automatiq_ai/
 
 ---
 
-## 🧪 Testing
+### Testing
 
 ### Backend Tests
 
@@ -822,31 +822,3 @@ docker-compose logs -f backend
 ```
 
 ---
-
-## 📞 Support & Contact
-
-For issues, questions, or contributions:
-
-- **GitHub Issues**: [Create an issue]
-- **Documentation**: See `documentation.pdf` for detailed technical design
-- **API Docs**: http://localhost:8000/docs
-
----
-
-## 📄 License
-
-MIT License - See LICENSE file for details
-
----
-
-## 🙏 Acknowledgments
-
-- FastAPI framework
-- React and TypeScript community
-- OpenAI and Anthropic for LLM APIs
-- SQLAlchemy ORM
-
----
-
-**Built with ❤️ for enterprise cybersecurity training management**
-
