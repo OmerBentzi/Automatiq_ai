@@ -1,8 +1,5 @@
 # CyberSecurity Training Assistant - Technical Documentation
 
-**Version:** 1.0.0  
-**Date:** November 2024  
-**Author:** AI Engineering Team
 
 ---
 
