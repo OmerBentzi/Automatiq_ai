@@ -700,8 +700,8 @@ def verify_employee_credentials(
 
 ```python
 CISO_CREDENTIALS = {
-    "id": 99999,
-    "name": "CISO Admin"
+    "id": 123456789,
+    "name": "CISO"
 }
 ```
 
