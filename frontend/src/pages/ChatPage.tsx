@@ -191,7 +191,7 @@ export const ChatPage: React.FC = () => {
       {/* Footer */}
       <footer className="bg-white border-t border-gray-200 py-3">
         <div className="max-w-5xl mx-auto px-4 text-center text-xs text-gray-500">
-          CyberSecurity Training Assistant v1.0.0 | Powered by AI
+          CyberSecurity Training Assistant v1.0.0 | Powered by Omer Ben Simon
         </div>
       </footer>
     </div>
